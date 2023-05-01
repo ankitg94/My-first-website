@@ -509,7 +509,7 @@ footer{
 	gap: 1rem;
 	margin-left: 18%;
 }
-@media screen and (max-width: 374px) {
+@media screen and (max-width: 400px) {
 	.container{
 	width: 100%;
 	}
