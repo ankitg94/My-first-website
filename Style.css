@@ -671,7 +671,7 @@ padding-left:3rem;
 	font-size:25px;
 	font-weight:bold;
 	margin-left: 25px;
-	margin-top: -10px;
+	margin-top: -1px;
 /*	line-height:3rem;*/
 /*	overflow-y: hidden;*/
 }
@@ -687,11 +687,12 @@ opacity: 0;
 	gap:0.6rem;
 	width: 2%;
 	height: 1%;
+	margin_top:-2px;
 	align-items: center;
 	margin-left: 25px;
 }
 .btn-project{
-	font-size: 0.8rem;
+	font-size: 0.6rem;
 	border-radius: 4%;
 	background-color: cyan;
 }
