@@ -671,7 +671,7 @@ padding-left:3rem;
 	font-size:25px;
 	font-weight:bold;
 	margin-left: 25px;
-	margin-top: -1px;
+/* 	margin-top: -1px; */
 /*	line-height:3rem;*/
 /*	overflow-y: hidden;*/
 }
@@ -694,7 +694,7 @@ opacity: 0;
 .btn-project{
 	font-size: 0.6rem;
 	border-radius: 4%;
-	background-color: cyan;
+/* 	background-color: cyan; */
 }
 .icon{
 
