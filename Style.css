@@ -42,13 +42,17 @@
 	font-size: 20px;
 	font-weight: 500;
 	cursor: pointer;
+	background-color:black;
+	padding:1.5%;
+	border-radius:7%;
 }
 a{
 	text-decoration: none;
+	font-weight:bold;
 
 }
 .nav-items div a{
-	color: black;
+	color: white;
 } 
 .nav-items div:hover{
 	transition: 2s;
@@ -58,11 +62,11 @@ a{
 .btn-pink{
 	height: 3rem;
 	width: 9rem;
-	background-color:red;
+	background-color:cyan;
 	padding: 0.8rem 2.3rem;
 	color: whitesmoke;
 	font-size: 20px;
-	/*box-shadow: 5px 5px 7px 0px;*/
+	box-shadow: 5px 5px 7px 0px;
 	position: relative;
 	z-index: 1;
 	display: flex;
@@ -547,8 +551,11 @@ footer{
 	margin-left: 35%;
 }
 .icon-wrapper{
-    margin-left: 40%
+    margin-left: 30%
 	}
+.icon-wraapper{
+	font-size:50px;
+	
 /*form section*/
 .contactus-form-container{
    height: 100%;
