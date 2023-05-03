@@ -726,6 +726,12 @@ opacity: 0;
 	padding: 0.3rem 0.8rem;
 	font-size: 12px;
 	margin: 2%;
+	background-color:lightcyan;
+}
+.btn-pink a{
+        color:black;
+	font-weight:bold;
+	font-size:15px;
 }
 .hero-section{
 /*	position: relative;*/
