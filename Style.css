@@ -641,7 +641,7 @@ padding-left:3rem;
 .project-card{
 	width:50vh;
 	height:60vh;
-	overflow-y: auto;
+/* 	overflow-y: auto; */
 
 	
 }
