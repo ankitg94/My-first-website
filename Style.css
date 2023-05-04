@@ -640,9 +640,9 @@ padding-left:3rem;
 	 margin-left: 0;
 }
 .project-card{
-	width:50vh;
-	height:60vh;
-/* 	overflow-y: auto; */
+	width:40vh;
+	height:40vh;
+ 	overflow-y: auto; 
 
 	
 }
